@@ -34,7 +34,7 @@ include_once 'includes/header.php';
              <div class="vl-blog-meta">
                 <ul>
                  <li>
-                   <a href="#">Articles</a>
+                   <a href="#">Articles / amendiments</a>
                </li>
                 </ul>
              </div>
@@ -287,7 +287,7 @@ include_once 'includes/header.php';
     <div class="row align-items-center">
       <div class="col-lg-5">
         <div class="cta-content-area heading1">
-          <h2 class="text-anime-style-3">Start Your Journey to Better Health Now</h2>
+          <h2 class="text-anime-style-3">Start Your Journey to Better Health Now inorder to leave a peace mindset tune to the proper health acknoweledgement</h2>
           <div class="space16"></div>
           <p data-aos="fade-left" data-aos-duration="900">Contact us today to schedule your appointment and embark on your journey to better health.</p>
           <div class="space24"></div>

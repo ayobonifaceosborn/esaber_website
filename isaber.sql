@@ -26,7 +26,8 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `about_us`
 --
-
+create Database isaber;
+use isaber;
 CREATE TABLE `about_us` (
   `id` int(11) NOT NULL,
   `title` varchar(255) NOT NULL,
